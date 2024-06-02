@@ -8,7 +8,8 @@ import bookingPageContents from './booking-page-contents';
 import itineraries from './itineraries';
 import faqs from './faqs';
 import tourPackageTable from './tour-package-table';
+import hotelTrendingDestination from './hotel-trending-destination';
 export const schemaTypes = [websiteBanner, destination, yachts,
     companyTrips, additionalProducts, destinationBlog,
     bookingPageContents, itineraries, faqs,
-    tourPackageTable]
+    tourPackageTable, hotelTrendingDestination]
